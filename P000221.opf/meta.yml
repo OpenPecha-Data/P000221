@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །ཨོ་རྒྱན་གུ་རུ་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཀོད་པ་པདྨ་བཀའི་ཐང་ཡིག་ཅེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཨོ་རྒྱན་གུ་རུ་པདྨ་འབྱུང་གནས།
+  sku: LEK-PHI-113
+  layers:
+  - book_title
+  - author
+web_metadata:
+  title:
+    en: Chronicles of Padma:The Lives of Guru Rinpoche
+    bo: ཨོ་རྒྱན་གུ་རུ་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཀོད་པ་པདྨ་བཀའི་ཐང་ཡིག་ཅེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 113
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། – ༡༡༣
+  author:
+    en: Padmasambhava
+    bo: པདྨ་སཾ་བྷ་བ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-113
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-113.epub
+  description:
+    en: ''
+    bo: ''
