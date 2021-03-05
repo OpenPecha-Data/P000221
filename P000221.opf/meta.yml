@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000221
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཨོ་རྒྱན་གུ་རུ་པདྨ་འབྱུང་གནས་ཀྱི་སྐྱེས་རབས་རྣམ་པར་ཐར་པ་རྒྱས་པར་བཀོད་པ་པདྨ་བཀའི་ཐང་ཡིག་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཨོ་རྒྱན་གུ་རུ་པདྨ་འབྱུང་གནས།
-  sku: LEK-PHI-113
   layers:
   - book_title
   - author
+  id: LEK-PHI-113
 web_metadata:
   title:
     en: Chronicles of Padma:The Lives of Guru Rinpoche
